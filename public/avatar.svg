@@ -1,0 +1,6 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" fill="#1a365d"/>
+  <circle cx="100" cy="80" r="40" fill="#f7fafc"/>
+  <ellipse cx="100" cy="170" rx="60" ry="45" fill="#f7fafc"/>
+  <text x="100" y="105" font-family="Arial" font-size="24" fill="#1a365d" text-anchor="middle">Pepe</text>
+</svg>
